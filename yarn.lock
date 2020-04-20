@@ -2770,9 +2770,9 @@ gh-pages@^1.1.0:
     graceful-fs "4.1.11"
     rimraf "^2.6.2"
 
-github-fork-ribbon-css@^0.2.1:
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/github-fork-ribbon-css/-/github-fork-ribbon-css-0.2.1.tgz#7b41c2d3109c0225eae363132ddbb127b6186ea2"
+github-fork-ribbon-css@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/github-fork-ribbon-css/-/github-fork-ribbon-css-0.2.3.tgz#bca2bc1987b6ca138a5619be4396d1819732a875"
 
 glob-base@^0.3.0:
   version "0.3.0"
