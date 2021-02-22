@@ -6,7 +6,7 @@
   "devDependencies": {
     "gh-pages": "^1.1.0",
     "prettier": "^1.13.0",
-    "react-scripts": "^1.0.17"
+    "react-scripts": "^4.0.3"
   },
   "dependencies": {
     "clipboard": "^1.7.1",
